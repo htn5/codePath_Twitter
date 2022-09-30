@@ -25,5 +25,5 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77522068/193365729-c3737311-5ff0-49f3-99b2-90e3d2dd0fef.gif)
 
-made with EZGif(ezgif.com)
+made with [EZGif](ezgif.com)
 
